@@ -1,0 +1,23 @@
+!!brut.androlib.apk.ApkInfo
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: false
+mApkFileName: ImsService.apk
+mSdkInfo:
+  minSdkVersion: '28'
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.8.0
+versionInfo:
+  versionCode: '33'
+  versionName: '13'
